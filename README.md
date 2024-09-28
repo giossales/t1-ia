@@ -1,1 +1,1 @@
-# t1-ia
+### Trabalho solicitado para obtenção de nota parcial na disciplina de Inteligência Artificial.
